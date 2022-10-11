@@ -1,5 +1,5 @@
 # data_science_Analisis-Medico-Tumores
-Prácitca para el análisis médico de tumores utilizando la ciencia de datos.
+Práctica para el análisis médico de tumores utilizando la ciencia de datos.
 
 El conjunto de datos sobre el que partimos contiene casos de un estudio que se realizó en los Hospitales de la Universidad de Wisconsin, Madison, sobre pacientes que se habían sometido a una cirugía por cáncer de mama. La prácitca consiste en determinar si el tumor detectado es benigno o maligno.
 
